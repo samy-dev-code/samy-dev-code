@@ -33,16 +33,10 @@ Experiência no desenvolvimento e publicação do **App Videira**, uma solução
 
 ---
 
-### 📱 Contato & Networking
+### 📧 Contato Profissional
 <div align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/55SEUNUMERO_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
