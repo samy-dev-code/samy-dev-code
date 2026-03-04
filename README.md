@@ -31,19 +31,34 @@ Sou um desenvolvedor focado em construir aplicações móveis de alta performanc
 
 ---
 
-### 📊 Performance & Insights
+### 🚀 Projetos em Destaque
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samy-dev-code&show_icons=true&theme=transparent&title_color=3ECF8E&text_color=afb0b1&icon_color=3ECF8E&hide_border=true&include_all_commits=true&count_private=true" />
+      <td width="50%" valign="top">
+        <h4>📱 App Videira</h4>
+        <p align="left">Plataforma mobile completa construída com <b>React Native</b> e <b>Supabase</b>. Focada em alta performance e experiência do usuário em tempo real.</p>
+        <p align="left">
+          <a href="https://github.com/samy-dev-code/videira-app"><code>Ver Repositório</code></a>
+        </p>
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-dev-code&layout=compact&langs_count=7&theme=transparent&title_color=3ECF8E&text_color=afb0b1&hide_border=true" />
+      <td width="50%" valign="top">
+        <h4>☕ API Backend Java</h4>
+        <p align="left">Sistema robusto de gestão utilizando <b>Spring Boot</b> e <b>PostgreSQL</b>. Implementação de arquitetura limpa e segurança via JWT.</p>
+        <p align="left">
+          <a href="https://github.com/samy-dev-code/api-gestao"><code>Ver Repositório</code></a>
+        </p>
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+### 🎯 Foco Atual
+- 🔭 **Atualmente trabalhando em:** Evolução do ecossistema Videira.
+- 🌱 **Aprendendo:** Testes automatizados no ecossistema Mobile e arquitetura Serverless.
+- 💬 **Pergunte-me sobre:** React Native, TypeScript e por que o Supabase é incrível.
 
 ---
 
