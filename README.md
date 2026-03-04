@@ -1,36 +1,56 @@
-# Olá, eu sou o Samy! 👋
-
-### Full Stack Developer | Especialista em Mobile & Supabase
-
-Sou um desenvolvedor apaixonado por transformar ideias em código performante. Atualmente, foco no desenvolvimento de aplicações mobile com **React Native** e ecossistemas escaláveis usando **Supabase**. Meu maior projeto recente é o **App Videira**, uma solução completa de engajamento e gestão.
-
----
-
-### 🛠 Minhas Tecnologias
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20Samy!%20👋&fontSize=50&animation=fadeIn" />
+</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samy-dev-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-dev-code&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=25&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Especialista+em+React+Native;Expert+em+Supabase+%26+TypeScript;Criador+do+App+Videira" />
+</div>
+
+---
+
+### 🛠️ Minhas Tecnologias (Tech Stack)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,supabase,java,spring,postgres,docker,git" />
+</div>
+
+---
+
+### 📊 Estatísticas Dinâmicas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samy-dev-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samy-dev-code&layout=compact&langs_count=7&theme=tokyonight&border_radius=10" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samy-dev-code&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
 
 ### 📱 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/SEU_INSTAGRAM_AQUI)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO_AQUI)
+<div align="center">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/55SEUNUMERO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
 ---
-> "Transformando café em código e ideias em aplicativos." ☕🚀
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+</div>
